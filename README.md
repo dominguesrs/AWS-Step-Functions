@@ -418,23 +418,6 @@ Implementar lógica condicional no fluxo apenas com JSON — sem escrever códig
 **6. Serverless não dispensa boas práticas de arquitetura**
 Mesmo sem servidores para gerenciar, decisões como desacoplamento via mensageria, separação de responsabilidades entre funções e tratamento explícito de erros são tão importantes quanto em sistemas tradicionais.
 
----
-
-## 📁 Estrutura do Repositório
-
-```
-lab-aws-step-functions/
-├── README.md
-├── /state-machine
-│   └── workflow.json
-├── /lambdas
-│   ├── validar_arquivo.py
-│   └── processar_arquivo.py
-└── /images
-    ├── state-machine-console.png
-    ├── execution-valida.png
-    └── execution-invalida.png
-```
 
 ---
 
