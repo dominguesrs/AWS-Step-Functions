@@ -27,7 +27,6 @@
 - [Erros Encontrados e Soluções](#-erros-encontrados-e-soluções)
 - [Arquitetura e Decisões Técnicas](#-arquitetura-e-decisões-técnicas)
 - [Insights e Aprendizados](#-insights-e-aprendizados)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Referências](#-referências)
 
 ---
